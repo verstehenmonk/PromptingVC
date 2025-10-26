@@ -1,0 +1,14 @@
+Generate comprehensive unit tests for the following code:
+
+```
+{CODE_HERE}
+```
+
+Requirements:
+- Cover edge cases and boundary conditions
+- Include positive and negative test cases
+- Use descriptive test names
+- Add comments explaining test purposes
+- Ensure high code coverage
+
+Please generate the tests in {TESTING_FRAMEWORK} format.
