@@ -153,10 +153,10 @@ promptvc projects
 Output:
 ```
 Projects:
-  - customer-service (1 prompts)
-  - consulting (1 prompts)
-  - ecommerce (1 prompts)
-  - dev-tools (1 prompts)
+  - customer-service (1 prompt)
+  - consulting (1 prompt)
+  - ecommerce (1 prompt)
+  - dev-tools (1 prompt)
 ```
 
 ## Step 10: AI-Powered Improvements (Optional)
